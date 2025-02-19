@@ -15,9 +15,11 @@ Here are some of the projects I've worked on:
 - **[Project 2](https://github.com/riteshshukl4/calorie-budget-tracker)**: A cross-platform mobile app developed using React Native.
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshshukla&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshshukl4&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshshukla&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshshukl4&layout=compact&theme=radical)
+
+![riteshukla's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=riteshukla&theme=Dark)
 
 ### 📫 Let's Connect!
 I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me:
